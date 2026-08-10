@@ -15,7 +15,7 @@
 
 This project showcases a premium web development standard with a strong focus on aesthetics and seamless user experience (UX). The core of this project is its **Dynamic Navigation** and **Scroll Animation Engine**, ensuring that the website feels alive and responsive across all devices—from large desktop monitors to mobile screens.
 
-## ✨ Accurate Features (Verified from Code)
+## ✨ Accurate Features 
 
 - **Dynamic Sticky Navbar**: The navigation bar adapts its styling (e.g., background transparency and shadows) dynamically when the user scrolls down the page.
 - **Scroll Spy (Active Link Highlighting)**: As you scroll through different sections (Home, About, Services, etc.), the navbar automatically highlights the corresponding navigation link.
@@ -40,7 +40,6 @@ This project showcases a premium web development standard with a strong focus on
 ├── 📄 script.js       # Logic for scroll spy, reveal engine, and mobile menu
 └── 📄 README.md       # Project documentation
 ```
-*(Note: Excludes additional standalone HTML files like `about.html` kept for potential multi-page iterations.)*
 
 ## 🚀 Setup & Installation
 
@@ -65,8 +64,8 @@ Since this project relies completely on static files, no build step or node pack
 ## 🤝 Author
 
 **Arushi**
-- GitHub: [Your GitHub Profile]
-- Portfolio: [Your Portfolio Link]
+- LinkedIn: www.linkedin.com/in/arushisingh21
+- Gmail: arushi.s246@gmail.com
 
 ---
 <div align="center">
